@@ -1,0 +1,11 @@
+h1{
+    color: rgb(253, 182, 177);
+    text-align: center;
+    font-style: italic;   
+    font-weight: bold; 
+}
+.form{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
